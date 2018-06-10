@@ -1,0 +1,10 @@
+management:
+ security:
+  enabled:
+   false
+info:
+ app:
+  name:
+   spring-boot-hello
+  version:
+   v1.1
